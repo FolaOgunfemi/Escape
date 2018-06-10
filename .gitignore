@@ -1,0 +1,23 @@
+#########
+# Unreal Generated Files. Always Ignore These for Unreal Projects
+#########
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+#########
+# Above..Unreal Generated Files. Always Ignore These for Unreal Projects
+#########
+
+#########
+#Project Specific Ignores
+#########
+BuildingEscape/Content/StarterContent/
+
+#########
+#Visual Studio Specific Ignores
+#########
+*.VC.db
+
+
